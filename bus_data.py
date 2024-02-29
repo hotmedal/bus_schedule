@@ -4,7 +4,8 @@ import folium
 from streamlit_folium import folium_static
 
 # Sample data (replace with your actual bus data)
-file_paths = ['table1.csv', 'table2.csv', 'table3.csv', 'table4.csv', 'table5.csv', 'table6.csv', 'table7.csv']
+#file_paths = ['table1.csv', 'table2.csv', 'table3.csv', 'table4.csv', 'table5.csv', 'table6.csv', 'table7.csv']
+file_paths = ['table1.zip', 'table2.zip', 'table3.zip', 'table4.zip', 'table5.zip', 'table6.zip', 'table7.zip']
 
 # Function to process each chunk
 #def process_chunk(chunk):
